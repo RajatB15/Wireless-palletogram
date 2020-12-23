@@ -1,0 +1,43 @@
+﻿<mah:MetroWindow
+    xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls" x:Class="WpfApplication1.details"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="details" Height="400" WindowStartupLocation="CenterScreen" Width="585" ResizeMode="NoResize">
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="20"/>
+            
+        </Grid.RowDefinitions >
+
+        <TextBlock Grid.Row="2" Foreground="White" FontWeight="Bold" >STEPS TO USE WPF USER INTERFACE</TextBlock>
+
+        <TextBlock Grid.Row="4" Foreground="White" >Step 1:     Use wireless paletogram to analyze the speech of patient.</TextBlock>
+
+        <TextBlock Grid.Row="6" Foreground="White" >Step 2:     In the receiver end, insert a SD card module to collect all the recorded data.</TextBlock>
+
+        <TextBlock Grid.Row="8" Foreground="White">Step 3:      Once data collection ends, remove the SD  card from SD card module and insert it in your computer.</TextBlock>
+
+        <TextBlock Grid.Row="10" Foreground="White">Step 4:     Select SD card mode in user interface.</TextBlock>
+
+        <TextBlock Grid.Row="12" Foreground="White" >Step 5:    Click on select file button and select the file in which all the data is written.</TextBlock>
+
+        <TextBlock Grid.Row="14" Foreground="White" >Step 6:    The file automatically opens and displays the data in the sensor grid.</TextBlock>
+    </Grid>
+    
+    
+</mah:MetroWindow>

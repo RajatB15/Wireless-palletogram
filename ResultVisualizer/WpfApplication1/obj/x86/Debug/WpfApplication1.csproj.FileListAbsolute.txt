@@ -1,0 +1,107 @@
+c:\users\hp\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\hp\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\hp\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+c:\users\hp\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+c:\users\hp\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+c:\users\hp\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\hp\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+c:\users\hp\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+c:\users\hp\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\hp\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\SdCardDataDisplayWindow.baml
+C:\Users\hp\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\SdCardDataDisplayWindow.g.cs
+C:\Users\hp\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\DisplayInBoxes.baml
+C:\Users\hp\documents\visual studio 2010\Projects\WpfApplication1\WpfApplication1\obj\x86\Debug\DisplayInBoxes.g.cs
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\obj\x86\Debug\DisplayInBoxes.baml
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\obj\x86\Debug\SdCardDataDisplayWindow.baml
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\obj\x86\Debug\DisplayInBoxes.g.cs
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\obj\x86\Debug\SdCardDataDisplayWindow.g.cs
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\Z0041DYB\Downloads\CodeWhichIsntWorking-master\CodeWhichIsntWorking-master\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\hp\Downloads\codeParticallyworks-master\codeParticallyworks-master\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\hp\Downloads\codeParticallyworks-master\codeParticallyworks-master\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\hp\Downloads\codeParticallyworks-master\codeParticallyworks-master\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\hp\Downloads\codeParticallyworks-master\codeParticallyworks-master\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\hp\Downloads\codeParticallyworks-master\codeParticallyworks-master\WpfApplication1\WpfApplication1\obj\x86\Debug\DisplayInBoxes.baml
+C:\Users\hp\Downloads\codeParticallyworks-master\codeParticallyworks-master\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\hp\Downloads\codeParticallyworks-master\codeParticallyworks-master\WpfApplication1\WpfApplication1\obj\x86\Debug\SdCardDataDisplayWindow.baml
+C:\Users\hp\Downloads\codeParticallyworks-master\codeParticallyworks-master\WpfApplication1\WpfApplication1\obj\x86\Debug\DisplayInBoxes.g.cs
+C:\Users\hp\Downloads\codeParticallyworks-master\codeParticallyworks-master\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\hp\Downloads\codeParticallyworks-master\codeParticallyworks-master\WpfApplication1\WpfApplication1\obj\x86\Debug\SdCardDataDisplayWindow.g.cs
+C:\Users\hp\Downloads\codeParticallyworks-master\codeParticallyworks-master\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\hp\Downloads\codeParticallyworks-master\codeParticallyworks-master\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\hp\Downloads\codeParticallyworks-master\codeParticallyworks-master\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\hp\Downloads\codeParticallyworks-master\codeParticallyworks-master\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\hp\Downloads\codeParticallyworks-master\codeParticallyworks-master\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\DisplayInBoxes.baml
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\SdCardDataDisplayWindow.baml
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\DisplayInBoxes.g.cs
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\SdCardDataDisplayWindow.g.cs
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\info.g.cs
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\info.baml
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\Resources\Icons.baml
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\Resources\IconsNonShared.baml
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\ControlzEx.dll
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\ControlzEx.pdb
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.CopyComplete
+C:\Users\Z0040XCD\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\App.baml
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\ControlzEx.dll
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.dll
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\ControlzEx.pdb
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.pdb
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\bin\Debug\MahApps.Metro.xml
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\DisplayInBoxes.baml
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\Resources\Icons.baml
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\Resources\IconsNonShared.baml
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\SdCardDataDisplayWindow.baml
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\App.baml
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\DisplayInBoxes.g.cs
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\info.g.cs
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\SdCardDataDisplayWindow.g.cs
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\info.baml
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\details.baml
+C:\Users\Z0041DYB\source\repos\RajatwpgWpfApplication1\WpfApplication1\obj\x86\Debug\details.g.cs
